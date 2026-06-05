@@ -1,10 +1,10 @@
 # myvenv
 A global venv manager for Python.
 
-This is a project I wrote for personal use. It's a powershell cli tool for Windows that manages a collection of global venvs, similar to conda envs but very lightweight. 
+This is a project I wrote for personal use. It's a powershell cli tool for Windows that manages a collection of global venvs, similar to conda envs but very lightweight. Just place the whole thing anywhere on your system and optionally add it to PATH.
 
 > [!NOTE] 
-> Naturally, you'd have to adjust ownership and execution policy to allow ps1 scripts originating from the internet to run.
+> You might have to unblock the zip file after downloading to allow ps1 scripts originating from the internet to run.
 
 ## Basic usage
 
